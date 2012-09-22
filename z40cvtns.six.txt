@@ -1,0 +1,20 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   ValidationPlacingTask/ValidationPlacingTask.jar
+#	new file:   ValidationPlacingTask/java
+#	new file:   ValidationPlacingTask/src/ValidationPT.java
+#	new file:   ValidationPlacingTask/src/pt2010.txt
+#	new file:   ValidationPlacingTask/src/pt2011.txt
+#	new file:   ValidationPlacingTask/src/pt2012.txt
+#
+
